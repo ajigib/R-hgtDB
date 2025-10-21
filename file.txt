@@ -1,0 +1,351 @@
+source	target	class	description
+I4U23_010820	Adineta vaga	Bacteria	Cell wall degradation enzyme from soil bacteria
+I4U23_010821	Adineta vaga	Bacteria	Antibiotic resistance gene from Actinobacteria
+I4U23_010822	Adineta vaga	Fungi	Carbohydrate-active enzyme from Ascomycetes
+I4U23_010823	Adineta vaga	Bacteria	DNA repair protein from Proteobacteria
+I4U23_010824	Adineta vaga	Virus	Reverse transcriptase from retrotransposon
+I4U23_010825	Adineta vaga	Bacteria	Membrane transport protein from Cyanobacteria
+I4U23_010826	Adineta vaga	Archaea	Heat shock protein from thermophilic archaea
+I4U23_010827	Adineta vaga	Bacteria	Secondary metabolite synthesis from Streptomyces
+I4U23_010828	Adineta vaga	Plant	Photosynthesis-related protein from algae
+I4U23_010829	Adineta vaga	Bacteria	Toxin-antitoxin system from Firmicutes
+I4U23_010830	Adineta vaga	Fungi	Chitinase enzyme from Basidiomycetes
+I4U23_010831	Adineta vaga	Bacteria	Iron acquisition system from Pseudomonas
+I4U23_010832	Adineta vaga	Virus	Integrase protein from bacteriophage
+I4U23_010833	Adineta vaga	Bacteria	Nitrogen fixation gene from Rhizobia
+I4U23_010834	Adineta vaga	Animal	Collagen-like protein from marine invertebrates
+I4U23_010836	Adineta vaga	Bacteria	Quorum sensing regulator from Vibrio
+I4U23_010837	Adineta vaga	Archaea	Methane metabolism enzyme from methanogens
+I4U23_010838	Adineta vaga	Bacteria	Biofilm formation protein from Bacillus
+I4U23_010839	Adineta vaga	Fungi	Protease inhibitor from pathogenic fungi
+I4U23_010840	Adineta vaga	Bacteria	Heavy metal resistance from Cupriavidus
+I4U23_010841	Adineta vaga	Virus	Capsid protein from giant virus
+I4U23_010842	Adineta vaga	Bacteria	Antifreeze protein from polar bacteria
+I4U23_010843	Adineta vaga	Plant	Stress response protein from mosses
+I4U23_010844	Adineta vaga	Bacteria	Cellulose degradation enzyme from Cellulomonas
+I4U23_010845	Adineta vaga	Animal	Venom component from arthropods
+I4U23_010846	Adineta vaga	Bacteria	UV damage repair from Deinococcus
+I4U23_010847	Adineta vaga	Archaea	Extreme pH adaptation protein
+I4U23_010848	Adineta vaga	Bacteria	Antimicrobial peptide synthesis
+I4U23_010849	Adineta vaga	Fungi	Lignin degradation enzyme
+I4U23_010850	Adineta vaga	Bacteria	Siderophore biosynthesis pathway
+I4U23_010851	Adineta vaga	Virus	DNA packaging protein
+I4U23_010852	Adineta vaga	Bacteria	Carbon fixation enzyme
+I4U23_010853	Adineta vaga	Plant	Flavonoid biosynthesis gene
+I4U23_010854	Adineta vaga	Bacteria	Motility and chemotaxis system
+I4U23_010855	Adineta vaga	Animal	Immune response protein
+I4U23_010856	Adineta vaga	Bacteria	Spore formation gene
+I4U23_010857	Adineta vaga	Archaea	Halophilic adaptation protein
+I4U23_010858	Adineta vaga	Bacteria	Bioluminescence system
+I4U23_010859	Adineta vaga	Fungi	Mycotoxin resistance gene
+I4U23_010860	Adineta vaga	Bacteria	Plasmid conjugation machinery
+I4U23_010861	Adineta vaga	Virus	Host recognition protein
+I4U23_010862	Adineta vaga	Bacteria	Nitrate reductase complex
+I4U23_010863	Adineta vaga	Plant	Drought tolerance protein
+I4U23_010864	Adineta vaga	Bacteria	Polysaccharide capsule synthesis
+I4U23_010865	Adineta vaga	Animal	Neurotransmitter synthesis enzyme
+I4U23_010866	Adineta vaga	Bacteria	Type III secretion system
+I4U23_010867	Adineta vaga	Archaea	Sulfur metabolism enzyme
+I4U23_010868	Adineta vaga	Bacteria	Riboswitch regulatory element
+I4U23_010869	Adineta vaga	Fungi	Cell wall integrity sensor
+I4U23_010870	Adineta vaga	Bacteria	Competence development protein
+I4U23_010871	Adineta vaga	Virus	Anti-defense protein
+I4U23_010872	Adineta vaga	Bacteria	Osmotic stress response protein
+I4U23_010873	Adineta vaga	Plant	Seed storage protein
+I4U23_010874	Adineta vaga	Bacteria	Flagellar motor protein
+I4U23_010875	Adineta vaga	Animal	Pigment synthesis enzyme
+I4U23_010876	Adineta vaga	Bacteria	Twin-arginine translocation system
+I4U23_010877	Adineta vaga	Archaea	DNA binding protein
+I4U23_010878	Adineta vaga	Bacteria	Two-component signal transduction
+I4U23_010879	Adineta vaga	Fungi	Mating type protein
+I4U23_010880	Adineta vaga	Bacteria	CRISPR-associated protein
+I4U23_010881	Adineta vaga	Virus	DNA polymerase from mimivirus
+I4U23_010882	Adineta vaga	Bacteria	ABC transporter system
+I4U23_010883	Adineta vaga	Plant	Terpene synthase enzyme
+I4U23_010884	Adineta vaga	Bacteria	Cytochrome P450 enzyme
+I4U23_010885	Adineta vaga	Animal	Hormone receptor protein
+I4U23_010886	Adineta vaga	Bacteria	Restriction-modification system
+I4U23_010887	Adineta vaga	Archaea	RNA polymerase subunit
+I4U23_010888	Adineta vaga	Bacteria	Polyhydroxyalkanoate synthesis
+I4U23_010889	Adineta vaga	Fungi	Glycosyl hydrolase enzyme
+I4U23_010890	Adineta vaga	Bacteria	Type IV pilus assembly
+I4U23_010891	Adineta vaga	Virus	Transposase from endogenous virus
+I4U23_010892	Adineta vaga	Bacteria	Cold shock protein
+I4U23_010893	Adineta vaga	Plant	Pathogenesis-related protein
+I4U23_010894	Adineta vaga	Bacteria	Autoinducer synthesis enzyme
+I4U23_010895	Adineta vaga	Animal	Calcium-binding protein
+I4U23_010896	Adineta vaga	Bacteria	Peptidoglycan hydrolase
+I4U23_010897	Adineta vaga	Archaea	Histone-like protein
+I4U23_010898	Adineta vaga	Bacteria	Sigma factor regulatory protein
+I4U23_010899	Adineta vaga	Fungi	Melanin biosynthesis enzyme
+I4U23_010900	Adineta vaga	Bacteria	TonB-dependent receptor
+I4U23_010901	Adineta vaga	Virus	Non-structural protein from RNA virus
+I4U23_010902	Adineta vaga	Bacteria	Polyketide synthase
+I4U23_010903	Adineta vaga	Plant	Alkaloid biosynthesis enzyme
+I4U23_010904	Adineta vaga	Bacteria	Chemotaxis receptor protein
+I4U23_010905	Adineta vaga	Animal	Antifungal peptide
+I4U23_010906	Adineta vaga	Bacteria	DNA methyltransferase
+I4U23_010907	Adineta vaga	Archaea	Translation elongation factor
+I4U23_010908	Adineta vaga	Bacteria	Beta-lactamase enzyme
+I4U23_010909	Adineta vaga	Fungi	Cellulose binding domain
+I4U23_010910	Adineta vaga	Bacteria	Type II secretion system
+I4U23_010911	Adineta vaga	Virus	Structural protein from phage
+I4U23_010912	Adineta vaga	Bacteria	Carotenoid biosynthesis gene
+I4U23_010913	Adineta vaga	Plant	Wax biosynthesis enzyme
+I4U23_010914	Adineta vaga	Bacteria	Pilus assembly protein
+I4U23_010915	Adineta vaga	Animal	Hemolymph protein
+I4U23_010916	Adineta vaga	Bacteria	Ribosome protection protein
+I4U23_010917	Adineta vaga	Archaea	DNA topoisomerase
+I4U23_010918	Adineta vaga	Bacteria	Quinone biosynthesis enzyme
+I4U23_010919	Adineta vaga	Fungi	Protease enzyme
+I4U23_010920	Adineta vaga	Bacteria	Transposase from insertion sequence
+I4U23_010921	Adineta vaga	Virus	RNA-dependent RNA polymerase
+I4U23_010922	Adineta vaga	Bacteria	Nitrite reductase
+I4U23_010923	Adineta vaga	Plant	Late embryogenesis abundant protein
+I4U23_010924	Adineta vaga	Bacteria	Chaperone protein
+I4U23_010925	Adineta vaga	Animal	Cuticle protein
+I4U23_010926	Adineta vaga	Bacteria	DNA gyrase subunit
+I4U23_010927	Adineta vaga	Archaea	Reverse gyrase enzyme
+I4U23_010928	Adineta vaga	Bacteria	Lipopolysaccharide synthesis
+I4U23_010929	Adineta vaga	Fungi	Secondary metabolite cluster
+I4U23_010930	Adineta vaga	Bacteria	Type I polyketide synthase
+I4U23_010933	Adineta vaga	Virus	Matrix protein from virus
+I4U23_010934	Adineta vaga	Bacteria	Teichoic acid biosynthesis
+I4U23_010935	Adineta vaga	Plant	Defensin-like protein
+I4U23_010936	Adineta vaga	Bacteria	Competence protein
+I4U23_010937	Adineta vaga	Animal	Silk protein homolog
+I4U23_010938	Adineta vaga	Bacteria	Phage shock protein
+I4U23_010939	Adineta vaga	Archaea	DNA replication protein
+I4U23_010940	Adineta vaga	Bacteria	Beta-barrel assembly protein
+I4U23_010941	Adineta vaga	Fungi	Hydrophobin protein
+I4U23_010942	Adineta vaga	Bacteria	DNA mismatch repair protein
+I4U23_010943	Adineta vaga	Virus	Envelope glycoprotein
+I4U23_010944	Adineta vaga	Bacteria	Cyclic di-GMP metabolism
+I4U23_010945	Adineta vaga	Plant	Starch branching enzyme
+I4U23_010946	Adineta vaga	Bacteria	Cell division protein
+I4U23_010947	Adineta vaga	Animal	Ice-binding protein
+I4U23_010948	Adineta vaga	Bacteria	Riboflavin biosynthesis enzyme
+I4U23_010949	Adineta vaga	Archaea	Membrane lipid synthesis
+I4U23_010950	Adineta vaga	Bacteria	Tetracycline resistance protein
+I4U23_010951	Adineta vaga	Fungi	Beta-glucanase enzyme
+I4U23_010952	Adineta vaga	Bacteria	Type VI secretion system
+I4U23_010953	Adineta vaga	Virus	Tegument protein from herpesvirus
+I4U23_010954	Adineta vaga	Bacteria	Anaerobic respiration protein
+I4U23_010955	Adineta vaga	Plant	Photosystem I protein
+I4U23_010956	Adineta vaga	Bacteria	Glycopeptide resistance gene
+I4U23_010957	Adineta vaga	Animal	Myoglobin-like protein
+I4U23_010958	Adineta vaga	Bacteria	DNA uptake competence protein
+I4U23_010959	Adineta vaga	Archaea	Transcription factor
+I4U23_010960	Adineta vaga	Bacteria	Bacteriocin synthesis
+I4U23_010961	Adineta vaga	Fungi	Trehalose synthesis enzyme
+I4U23_010962	Adineta vaga	Bacteria	Methyl-accepting chemotaxis protein
+I4U23_010963	Adineta vaga	Virus	Non-coding RNA from virus
+I4U23_010964	Adineta vaga	Bacteria	Peptide deformylase
+I4U23_010965	Adineta vaga	Plant	Rubisco enzyme
+I4U23_010966	Adineta vaga	Bacteria	Cell surface antigen
+I4U23_010967	Adineta vaga	Animal	Ferritin protein
+I4U23_010968	Adineta vaga	Bacteria	RNA chaperone protein
+I4U23_010969	Adineta vaga	Archaea	Chromatin protein
+I4U23_010970	Adineta vaga	Bacteria	Multidrug efflux pump
+I4U23_010971	Adineta vaga	Fungi	Cell cycle regulator
+I4U23_010972	Adineta vaga	Bacteria	Iron-sulfur cluster assembly
+I4U23_010973	Adineta vaga	Virus	DNA binding protein from phage
+I4U23_010974	Adineta vaga	Bacteria	Polyphosphate kinase
+I4U23_010975	Adineta vaga	Plant	Aquaporin protein
+I4U23_010976	Adineta vaga	Bacteria	Cytochrome c oxidase
+I4U23_010977	Adineta vaga	Animal	Odorant binding protein
+I4U23_010978	Adineta vaga	Bacteria	DNA segregation protein
+I4U23_010979	Adineta vaga	Archaea	Protein folding chaperone
+I4U23_010980	Adineta vaga	Bacteria	Beta-oxidation enzyme
+I4U23_010981	Adineta vaga	Fungi	Mannoprotein synthesis
+I4U23_010982	Adineta vaga	Bacteria	Type IV secretion system
+I4U23_010983	Adineta vaga	Virus	Portal protein from virus
+I4U23_010984	Adineta vaga	Bacteria	Nitrogen regulatory protein
+I4U23_010985	Adineta vaga	Plant	Thionin-like protein
+I4U23_010986	Adineta vaga	Bacteria	Cell shape determination protein
+I4U23_010987	Adineta vaga	Animal	Vitellogenin-like protein
+I4U23_010988	Adineta vaga	Bacteria	Ribosomally synthesized peptide
+I4U23_010989	Adineta vaga	Archaea	DNA repair nuclease
+I4U23_010990	Adineta vaga	Bacteria	Quorum quenching enzyme
+I4U23_010991	Adineta vaga	Fungi	Cell wall remodeling enzyme
+I4U23_010992	Adineta vaga	Bacteria	Photosynthetic reaction center
+I4U23_010993	Adineta vaga	Virus	Tail fiber protein from phage
+I4U23_010994	Adineta vaga	Bacteria	Molybdenum cofactor synthesis
+I4U23_010995	Adineta vaga	Plant	Gibberellin biosynthesis enzyme
+I4U23_010996	Adineta vaga	Bacteria	Auto transporter protein
+I4U23_010997	Adineta vaga	Animal	Antimicrobial protein
+I4U23_010998	Adineta vaga	Bacteria	DNA transformation protein
+I4U23_011000	Adineta vaga	Archaea	RNA processing enzyme
+I4U23_011001	Adineta vaga	Bacteria	Glycolysis enzyme variant
+I4U23_011002	Adineta vaga	Fungi	Membrane transporter
+I4U23_011003	Adineta vaga	Bacteria	Cell signaling protein
+I4U23_011004	Adineta vaga	Virus	Replication initiator protein
+I4U23_011005	Adineta vaga	Bacteria	Bile salt hydrolase
+I4U23_011006	Adineta vaga	Plant	Phenylpropanoid pathway enzyme
+I4U23_011009	Adineta vaga	Bacteria	Extracellular polysaccharide synthesis
+I4U23_011010	Adineta vaga	Animal	Heat shock protein variant
+I4U23_011011	Adineta vaga	Bacteria	DNA protection protein
+I4U23_011012	Adineta vaga	Archaea	Membrane protein complex
+I4U23_011013	Adineta vaga	Bacteria	Antibiotic biosynthesis gene
+I4U23_011014	Adineta vaga	Fungi	Spore dispersal protein
+I4U23_011015	Adineta vaga	Bacteria	Metal ion transporter
+I4U23_011016	Adineta vaga	Virus	Structural protein from giant virus
+I4U23_011017	Adineta vaga	Bacteria	Cellulose synthesis protein
+I4U23_011018	Adineta vaga	Plant	Abscisic acid responsive protein
+I4U23_011019	Adineta vaga	Bacteria	Protein secretion system
+I4U23_011020	Adineta vaga	Animal	Neurotoxin-like protein
+I4U23_011021	Adineta vaga	Bacteria	Ribosome biogenesis protein
+I4U23_011022	Adineta vaga	Archaea	DNA binding protein variant
+I4U23_011023	Adineta vaga	Bacteria	Carbon storage regulator
+I4U23_011024	Adineta vaga	Fungi	Mating pheromone
+I4U23_011025	Adineta vaga	Bacteria	Nitrogenase enzyme
+I4U23_011026	Adineta vaga	Virus	DNA primase from virus
+I4U23_011027	Adineta vaga	Bacteria	Stress response sigma factor
+I4U23_011028	Adineta vaga	Plant	Seed germination protein
+I4U23_011029	Adineta vaga	Bacteria	Cell envelope integrity sensor
+I4U23_011030	Adineta vaga	Animal	Muscle protein homolog
+I4U23_011031	Adineta vaga	Bacteria	DNA recombination enzyme
+I4U23_011032	Adineta vaga	Archaea	RNA modification enzyme
+I4U23_011033	Adineta vaga	Bacteria	Biofilm dispersal enzyme
+I4U23_011034	Adineta vaga	Fungi	Cell death regulator
+I4U23_011035	Adineta vaga	Bacteria	Vitamin biosynthesis enzyme
+I4U23_011036	Adineta vaga	Virus	Host range determinant protein
+I4U23_011037	Adineta vaga	Bacteria	Membrane fusion protein
+I4U23_011038	Adineta vaga	Plant	Flower development protein
+I4U23_011039	Adineta vaga	Bacteria	Cell cycle regulator
+I4U23_011040	Adineta vaga	Animal	Eggshell protein homolog
+I4U23_011041	Adineta vaga	Bacteria	DNA binding transcriptional regulator
+I4U23_011042	Adineta vaga	Archaea	Protein degradation system
+I4U23_011043	Adineta vaga	Bacteria	Polysaccharide utilization locus
+I4U23_011044	Adineta vaga	Fungi	Cell fusion protein
+I4U23_011045	Adineta vaga	Bacteria	Antibiotic modification enzyme
+I4U23_011046	Adineta vaga	Virus	Viral entry protein
+I4U23_011047	Adineta vaga	Bacteria	Carbon catabolite repression
+I4U23_011048	Adineta vaga	Plant	Root nodulation protein
+I4U23_011049	Adineta vaga	Bacteria	Protein glycosylation system
+I4U23_011050	Adineta vaga	Animal	Blood clotting factor homolog
+I4U23_011051	Adineta vaga	Bacteria	DNA damage inducible protein
+I4U23_011052	Adineta vaga	Archaea	Membrane transport system
+I4U23_011053	Adineta vaga	Bacteria	Cell polarity protein
+I4U23_011054	Adineta vaga	Fungi	Hyphal growth protein
+I4U23_011055	Adineta vaga	Bacteria	Secondary messenger system
+I4U23_011056	Adineta vaga	Virus	Viral assembly protein
+I4U23_011057	Adineta vaga	Bacteria	Nitrogen metabolism regulator
+I4U23_011058	Adineta vaga	Plant	Chloroplast protein
+I4U23_011059	Adineta vaga	Bacteria	Cell size regulator
+I4U23_011060	Adineta vaga	Animal	Development regulatory protein
+I4U23_011061	Adineta vaga	Bacteria	DNA replication origin binding
+I4U23_011062	Adineta vaga	Archaea	Extremophile adaptation protein
+I4U23_011063	Adineta vaga	Bacteria	Toxin secretion system
+I4U23_011064	Adineta vaga	Fungi	Cell wall synthesis enzyme
+I4U23_011065	Adineta vaga	Bacteria	Ribosome hibernation factor
+I4U23_011066	Adineta vaga	Virus	Viral persistence factor
+I4U23_011067	Adineta vaga	Bacteria	Carbon concentration mechanism
+I4U23_011068	Adineta vaga	Plant	Fruit ripening enzyme
+I4U23_011069	Adineta vaga	Bacteria	Cell differentiation protein
+I4U23_011070	Adineta vaga	Animal	Immune system protein
+I4U23_011071	Adineta vaga	Bacteria	DNA topology modulator
+I4U23_011072	Adineta vaga	Archaea	Energy conversion protein
+I4U23_011073	Adineta vaga	Bacteria	Cell communication protein
+I4U23_011074	Adineta vaga	Fungi	Secondary metabolism regulator
+I4U23_011075	Adineta vaga	Bacteria	Membrane protein insertion
+I4U23_011076	Adineta vaga	Virus	Viral replication complex
+I4U23_011077	Adineta vaga	Bacteria	Cell division site selection
+I4U23_011078	Adineta vaga	Plant	Defense response protein
+I4U23_011079	Adineta vaga	Bacteria	Protein quality control
+I4U23_011080	Adineta vaga	Animal	Circulatory system protein
+I4U23_011081	Adineta vaga	Bacteria	DNA structure-specific nuclease
+I4U23_011082	Adineta vaga	Archaea	Membrane potential regulator
+I4U23_011083	Adineta vaga	Bacteria	Cell envelope stress response
+I4U23_011084	Adineta vaga	Fungi	Cell integrity pathway
+I4U23_011085	Adineta vaga	Bacteria	Protein localization system
+I4U23_011086	Adineta vaga	Virus	Viral genome packaging
+I4U23_011087	Adineta vaga	Bacteria	Carbon flux regulator
+I4U23_011088	Adineta vaga	Plant	Seed dormancy protein
+I4U23_011089	Adineta vaga	Bacteria	Cell wall remodeling enzyme
+I4U23_011090	Adineta vaga	Animal	Nervous system protein
+I4U23_011091	Adineta vaga	Bacteria	DNA replication restart
+I4U23_011092	Adineta vaga	Archaea	Protein synthesis factor
+I4U23_011093	Adineta vaga	Bacteria	Cell shape maintenance
+I4U23_011094	Adineta vaga	Fungi	Membrane trafficking protein
+I4U23_011095	Adineta vaga	Bacteria	Stress granule formation
+I4U23_011096	Adineta vaga	Virus	Viral transcription activator
+I4U23_011097	Adineta vaga	Bacteria	Cellular differentiation
+I4U23_011098	Adineta vaga	Plant	Meristem development protein
+I4U23_011099	Adineta vaga	Bacteria	Protein export machinery
+I4U23_011100	Adineta vaga	Animal	Reproductive system protein
+I4U23_011101	Adineta vaga	Bacteria	DNA damage tolerance
+I4U23_011102	Adineta vaga	Archaea	Cell division apparatus
+I4U23_011103	Adineta vaga	Bacteria	Membrane organization
+I4U23_011104	Adineta vaga	Fungi	Cell cycle checkpoint
+I4U23_011106	Adineta vaga	Bacteria	Cellular respiration component
+I4U23_011107	Adineta vaga	Virus	Viral immune evasion
+I4U23_011108	Adineta vaga	Bacteria	Metabolic pathway enzyme
+I4U23_011109	Adineta vaga	Plant	Organ development protein
+I4U23_011110	Adineta vaga	Bacteria	Cell signaling pathway
+I4U23_011111	Adineta vaga	Animal	Endocrine system protein
+I4U23_011112	Adineta vaga	Bacteria	DNA replication fidelity
+I4U23_011113	Adineta vaga	Archaea	Extreme environment adaptation
+I4U23_011114	Adineta vaga	Bacteria	Cellular stress response
+I4U23_011115	Adineta vaga	Fungi	Developmental regulator
+I4U23_011116	Adineta vaga	Bacteria	Membrane transport regulation
+I4U23_011117	Adineta vaga	Virus	Viral pathogenesis factor
+I4U23_011118	Adineta vaga	Bacteria	Cell growth regulation
+I4U23_011119	Adineta vaga	Plant	Tissue-specific protein
+I4U23_011120	Adineta vaga	Bacteria	Protein modification system
+I4U23_011121	Adineta vaga	Animal	Digestive system enzyme
+I4U23_011122	Adineta vaga	Bacteria	DNA replication initiation
+I4U23_011123	Adineta vaga	Archaea	Cellular homeostasis
+I4U23_011124	Adineta vaga	Bacteria	Cell division coordination
+I4U23_011125	Adineta vaga	Fungi	Cellular differentiation
+I4U23_011126	Adineta vaga	Bacteria	Metabolic regulation
+I4U23_011127	Adineta vaga	Virus	Viral assembly scaffold
+I4U23_011128	Adineta vaga	Bacteria	Cellular organization
+I4U23_011129	Adineta vaga	Plant	Growth regulation protein
+I4U23_011130	Adineta vaga	Bacteria	Protein synthesis regulation
+I4U23_011131	Adineta vaga	Animal	Sensory system protein
+I4U23_011132	Adineta vaga	Bacteria	DNA maintenance system
+I4U23_011133	Adineta vaga	Archaea	Cellular adaptation
+I4U23_011134	Adineta vaga	Bacteria	Cell envelope biogenesis
+I4U23_011135	Adineta vaga	Fungi	Cellular communication
+I4U23_011137	Adineta vaga	Bacteria	Metabolic integration
+I4U23_011138	Adineta vaga	Virus	Viral replication regulation
+I4U23_011139	Adineta vaga	Bacteria	Cellular protection
+I4U23_011140	Adineta vaga	Plant	Development timing control
+I4U23_011141	Adineta vaga	Bacteria	Protein degradation pathway
+I4U23_011142	Adineta vaga	Animal	Excretory system protein
+I4U23_011143	Adineta vaga	Bacteria	DNA transaction protein
+I4U23_011144	Adineta vaga	Archaea	Cellular stress management
+I4U23_011145	Adineta vaga	Bacteria	Cell cycle progression
+I4U23_011146	Adineta vaga	Fungi	Cellular organization
+I4U23_011147	Adineta vaga	Bacteria	Metabolic coordination
+I4U23_011148	Adineta vaga	Virus	Viral persistence mechanism
+I4U23_011149	Adineta vaga	Bacteria	Cellular defense system
+I4U23_011150	Adineta vaga	Plant	Organismal development
+I4U23_011151	Adineta vaga	Bacteria	Protein interaction network
+I4U23_011152	Adineta vaga	Animal	Integumentary system protein
+I4U23_011153	Adineta vaga	Bacteria	DNA metabolism enzyme
+I4U23_011154	Adineta vaga	Archaea	Cellular function maintenance
+I4U23_011155	Adineta vaga	Bacteria	Cell structure maintenance
+I4U23_011156	Adineta vaga	Fungi	Cellular function regulation
+I4U23_011157	Adineta vaga	Bacteria	Metabolic network component
+I4U23_011158	Adineta vaga	Virus	Viral life cycle regulation
+I4U23_011159	Adineta vaga	Bacteria	Cellular adaptation system
+I4U23_011160	Adineta vaga	Plant	Whole plant regulation
+I4U23_011161	Adineta vaga	Bacteria	Protein function modulator
+I4U23_011162	Adineta vaga	Animal	Skeletal system protein
+I4U23_011163	Adineta vaga	Bacteria	DNA information processing
+I4U23_011164	Adineta vaga	Archaea	Cellular system integrity
+I4U23_011165	Adineta vaga	Bacteria	Cell function coordination
+I4U23_011166	Adineta vaga	Fungi	Cellular process integration
+I4U23_011167	Adineta vaga	Bacteria	Metabolic process regulation
+I4U23_011168	Adineta vaga	Virus	Viral-host interaction
+I4U23_011169	Adineta vaga	Bacteria	Cellular process control
+I4U23_011170	Adineta vaga	Plant	System development
+I4U23_011171	Adineta vaga	Bacteria	Protein activity regulation
+I4U23_011172	Adineta vaga	Animal	Muscular system protein
+I4U23_011173	Adineta vaga	Bacteria	DNA functional maintenance
+I4U23_011174	Adineta vaga	Archaea	Cellular operation
+I4U23_011175	Adineta vaga	Bacteria	Cell operational control
+I4U23_011176	Adineta vaga	Fungi	Cellular operational system
+I4U23_011177	Adineta vaga	Bacteria	Metabolic operational control
